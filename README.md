@@ -1,5 +1,5 @@
 This Project is meant to be a **theoritical** Cource I provide some code but in the abstract way you can readit to understand the concept we refer to some reference in this notebook and the most important reference is 
-[Hands‑On Machine Learning with Scikit‑Learn, Keras] (https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_image_bk) it is amazing book and I recomend every one have an interest in machince learning and Deep learning to read it.
+[Hands‑On Machine Learning with Scikit‑Learn, Keras](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1492032646/dp/1492032646/ref=dp_ob_image_bk) it is amazing book and I recomend every one have an interest in machince learning and Deep learning to read it.
 
 # Autoencoders
 **Autoencoders** are artificial **neural networks** capable of learning dense representations
